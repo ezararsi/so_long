@@ -1,0 +1,11 @@
+# Build artifacts
+*.o
+*.a
+a.out
+/so_long
+
+# Editor
+.vscode/
+*~
+\#*\#
+.DS_Store
